@@ -253,6 +253,14 @@ Available options include:
 --demo, -d
 --help, -h
 ```
+## Web UI (Streamlit)
+
+A professional web interface with Light/Dark theme toggle, interactive timeline, and skill gap visualization.
+
+```bash
+python -m streamlit run web_app.py
+```
+Features: Light/Dark theme toggle, interactive timeline, skill gap visualization, JSON export.
 
 ---
 
@@ -298,6 +306,7 @@ course-recommendation-agent/
 │
 ├── app.py
 ├── recommender.py
+├── web_app.py
 ├── llm.py
 ├── models.py
 ├── utils.py
@@ -476,7 +485,7 @@ This keeps the system easier to understand, test, and maintain.
 | Local course catalogue             | Reproducible and easy to evaluate | Course data is not real-time                    |
 | Deterministic recommendation logic | Transparent and testable          | Less adaptive than a learned recommender        |
 | Optional LLM                       | Adds natural personalization      | Requires external API for enhanced explanations |
-| CLI-first design                   | Fast, reliable, and easy to run   | Less visual than a web interface                |
+| CLI + Streamlit Web UI             | Fast CLI for evaluators, rich web UI for demos | Requires streamlit dependency      |
 | JSON data storage                  | Simple and portable               | Not intended for large-scale datasets           |
 
 ---
@@ -490,7 +499,7 @@ Potential limitations include:
 * The course catalogue is locally maintained.
 * Recommendation quality depends on the quality of the catalogue and scoring logic.
 * LLM personalization depends on external API availability.
-* The current application is CLI-based.
+* No database persistence between sessions.
 * Recommendations are not persisted between sessions.
 
 These are deliberate scope decisions intended to prioritize a **working, explainable, reproducible agent** over unnecessary complexity.
@@ -503,13 +512,9 @@ With additional development time, the agent could be extended with:
 
 ###  Web Interface
 
-A Streamlit or React interface could provide:
+###  Enhanced Visualizations
 
-* Student profile forms
-* Skill-gap visualizations
-* Interactive learning roadmaps
-* Course cards
-* Progress tracking
+Charts showing skill coverage, learning velocity, and career trajectory over time.
 
 ###  Semantic Skill Matching
 
