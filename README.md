@@ -510,8 +510,6 @@ These are deliberate scope decisions intended to prioritize a **working, explain
 
 With additional development time, the agent could be extended with:
 
-###  Web Interface
-
 ###  Enhanced Visualizations
 
 Charts showing skill coverage, learning velocity, and career trajectory over time.
