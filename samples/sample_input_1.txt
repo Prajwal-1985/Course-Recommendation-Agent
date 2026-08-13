@@ -1,0 +1,6 @@
+Name: Riya Sharma
+Background: B.Sc. Mathematics graduate with no programming experience
+Current skills: descriptive-statistics, probability
+Skill level: beginner
+Career goal: Data Scientist
+Available study hours per week: 15

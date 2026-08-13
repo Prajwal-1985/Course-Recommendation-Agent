@@ -1,0 +1,410 @@
+{
+  "courses": [
+    {
+  "id": "python-oop",
+  "title": "Python Object-Oriented Programming",
+  "description": "Classes, objects, inheritance, polymorphism, encapsulation, and design patterns in Python.",
+  "skills_taught": ["classes", "inheritance", "polymorphism", "encapsulation", "design-patterns"],
+  "prerequisites": ["py-basics"],
+  "difficulty": "intermediate",
+  "estimated_hours": 20,
+  "category": "programming"
+    },
+    {
+  "id": "feature-engineering",
+  "title": "Feature Engineering for ML",
+  "description": "Creating, transforming, and selecting features to improve machine learning model performance.",
+  "skills_taught": ["feature-selection", "feature-transformation", "encoding", "scaling", "dimensionality-reduction"],
+  "prerequisites": ["pandas-basics", "statistics"],
+  "difficulty": "intermediate",
+  "estimated_hours": 25,
+  "category": "machine-learning"
+    },
+    {
+  "id": "time-series",
+  "title": "Time Series Analysis and Forecasting",
+  "description": "ARIMA, seasonal decomposition, forecasting, and handling temporal data with Python.",
+  "skills_taught": ["time-series-modeling", "forecasting", "seasonality", "trend-analysis", "arima"],
+  "prerequisites": ["pandas-basics", "statistics", "ml-fundamentals"],
+  "difficulty": "advanced",
+  "estimated_hours": 30,
+  "category": "machine-learning"
+    },
+      {
+  "id": "reinforcement-learning",
+  "title": "Reinforcement Learning",
+  "description": "Markov decision processes, Q-learning, policy gradients, and deep RL with PyTorch.",
+  "skills_taught": ["mdp", "q-learning", "policy-gradients", "deep-rl", "reward-shaping"],
+  "prerequisites": ["py-basics", "statistics", "deep-learning"],
+  "difficulty": "advanced",
+  "estimated_hours": 35,
+  "category": "deep-learning"
+    },
+    {
+  "id": "data-ethics",
+  "title": "Data Ethics and Responsible AI",
+  "description": "Bias, fairness, privacy, transparency, and building responsible AI systems.",
+  "skills_taught": ["bias-detection", "fairness-metrics", "privacy-preservation", "explainability", "ai-governance"],
+  "prerequisites": ["ml-fundamentals"],
+  "difficulty": "intermediate",
+  "estimated_hours": 15,
+  "category": "project"
+    },
+    {
+  "id": "api-development",
+  "title": "API Development with FastAPI",
+  "description": "Building REST APIs, request handling, authentication, and deploying ML models as services.",
+  "skills_taught": ["rest-apis", "fastapi", "authentication", "model-serving", "async-programming"],
+  "prerequisites": ["py-basics"],
+  "difficulty": "intermediate",
+  "estimated_hours": 20,
+  "category": "mlops"
+    },
+    {
+  "id": "cloud-ml",
+  "title": "Cloud Machine Learning (AWS/GCP/Azure)",
+  "description": "Training and deploying ML models on cloud platforms using managed services.",
+  "skills_taught": ["cloud-ml-platforms", "managed-notebooks", "auto-ml", "serverless-inference", "cost-optimization"],
+  "prerequisites": ["ml-fundamentals", "mlops"],
+  "difficulty": "advanced",
+  "estimated_hours": 25,
+  "category": "mlops"
+    },
+    {
+      "id": "py-basics",
+      "title": "Python Programming Fundamentals",
+      "description": "Learn Python syntax, variables, data types, control flow, functions, and basic file I/O.",
+      "skills_taught": [
+        "python-syntax",
+        "variables",
+        "control-flow",
+        "functions",
+        "file-io"
+      ],
+      "prerequisites": [],
+      "difficulty": "beginner",
+      "estimated_hours": 25,
+      "category": "programming"
+    },
+    {
+      "id": "git-github",
+      "title": "Git and GitHub for Developers",
+      "description": "Version control with Git, branching, merging, pull requests, and collaborative workflows on GitHub.",
+      "skills_taught": [
+        "git-basics",
+        "version-control",
+        "branching",
+        "github-workflow",
+        "collaboration"
+      ],
+      "prerequisites": [],
+      "difficulty": "beginner",
+      "estimated_hours": 15,
+      "category": "tools"
+    },
+    {
+      "id": "sql-fundamentals",
+      "title": "SQL Fundamentals",
+      "description": "Database design, SQL queries, joins, aggregations, and basic database management.",
+      "skills_taught": [
+        "sql-queries",
+        "database-design",
+        "joins",
+        "aggregations",
+        "data-retrieval"
+      ],
+      "prerequisites": [],
+      "difficulty": "beginner",
+      "estimated_hours": 20,
+      "category": "data"
+    },
+    {
+      "id": "data-structures",
+      "title": "Data Structures and Algorithms",
+      "description": "Arrays, linked lists, stacks, queues, trees, graphs, sorting, and searching algorithms.",
+      "skills_taught": [
+        "arrays",
+        "linked-lists",
+        "trees",
+        "graphs",
+        "sorting",
+        "searching",
+        "algorithm-analysis"
+      ],
+      "prerequisites": [
+        "py-basics"
+      ],
+      "difficulty": "intermediate",
+      "estimated_hours": 35,
+      "category": "programming"
+    },
+    {
+      "id": "numpy-basics",
+      "title": "NumPy for Numerical Computing",
+      "description": "Multi-dimensional arrays, vectorized operations, broadcasting, and linear algebra with NumPy.",
+      "skills_taught": [
+        "numpy-arrays",
+        "vectorization",
+        "broadcasting",
+        "linear-algebra-ops"
+      ],
+      "prerequisites": [
+        "py-basics"
+      ],
+      "difficulty": "beginner",
+      "estimated_hours": 15,
+      "category": "data"
+    },
+    {
+      "id": "pandas-basics",
+      "title": "Pandas for Data Manipulation",
+      "description": "DataFrames, Series, data cleaning, transformation, merging, and time series handling.",
+      "skills_taught": [
+        "pandas-dataframes",
+        "data-cleaning",
+        "data-transformation",
+        "merging",
+        "time-series"
+      ],
+      "prerequisites": [
+        "py-basics",
+        "numpy-basics"
+      ],
+      "difficulty": "beginner",
+      "estimated_hours": 20,
+      "category": "data"
+    },
+    {
+      "id": "statistics",
+      "title": "Statistics for Data Science",
+      "description": "Descriptive statistics, probability distributions, hypothesis testing, and confidence intervals.",
+      "skills_taught": [
+        "descriptive-statistics",
+        "probability",
+        "hypothesis-testing",
+        "confidence-intervals",
+        "distributions"
+      ],
+      "prerequisites": [
+        "py-basics",
+        "numpy-basics"
+      ],
+      "difficulty": "intermediate",
+      "estimated_hours": 30,
+      "category": "math"
+    },
+    {
+      "id": "data-viz",
+      "title": "Data Visualization",
+      "description": "Create charts, plots, and dashboards using Matplotlib, Seaborn, and Plotly.",
+      "skills_taught": [
+        "matplotlib",
+        "seaborn",
+        "plotly",
+        "dashboards",
+        "chart-design"
+      ],
+      "prerequisites": [
+        "pandas-basics"
+      ],
+      "difficulty": "intermediate",
+      "estimated_hours": 20,
+      "category": "data"
+    },
+    {
+      "id": "ml-fundamentals",
+      "title": "Machine Learning Fundamentals",
+      "description": "Supervised and unsupervised learning, model training, evaluation, and validation strategies.",
+      "skills_taught": [
+        "supervised-learning",
+        "unsupervised-learning",
+        "model-training",
+        "model-evaluation",
+        "cross-validation"
+      ],
+      "prerequisites": [
+        "py-basics",
+        "numpy-basics",
+        "pandas-basics",
+        "statistics"
+      ],
+      "difficulty": "intermediate",
+      "estimated_hours": 40,
+      "category": "machine-learning"
+    },
+    {
+      "id": "scikit-learn",
+      "title": "Scikit-learn for ML",
+      "description": "Implement ML algorithms for classification, regression, clustering, and dimensionality reduction.",
+      "skills_taught": [
+        "classification",
+        "regression",
+        "clustering",
+        "dimensionality-reduction",
+        "pipelines"
+      ],
+      "prerequisites": [
+        "ml-fundamentals"
+      ],
+      "difficulty": "intermediate",
+      "estimated_hours": 30,
+      "category": "machine-learning"
+    },
+    {
+      "id": "deep-learning",
+      "title": "Deep Learning with PyTorch",
+      "description": "Neural networks, backpropagation, CNNs, RNNs, and training deep models with PyTorch.",
+      "skills_taught": [
+        "neural-networks",
+        "backpropagation",
+        "cnns",
+        "rnns",
+        "pytorch",
+        "gpu-training"
+      ],
+      "prerequisites": [
+        "py-basics",
+        "numpy-basics",
+        "statistics",
+        "ml-fundamentals"
+      ],
+      "difficulty": "advanced",
+      "estimated_hours": 45,
+      "category": "deep-learning"
+    },
+    {
+      "id": "nlp",
+      "title": "Natural Language Processing",
+      "description": "Text preprocessing, tokenization, embeddings, transformers, and sentiment analysis.",
+      "skills_taught": [
+        "text-preprocessing",
+        "tokenization",
+        "word-embeddings",
+        "transformers",
+        "sentiment-analysis"
+      ],
+      "prerequisites": [
+        "py-basics",
+        "ml-fundamentals",
+        "deep-learning"
+      ],
+      "difficulty": "advanced",
+      "estimated_hours": 35,
+      "category": "nlp"
+    },
+    {
+      "id": "computer-vision",
+      "title": "Computer Vision",
+      "description": "Image processing, object detection, image segmentation, and vision transformers.",
+      "skills_taught": [
+        "image-processing",
+        "object-detection",
+        "image-segmentation",
+        "vision-transformers",
+        "opencv"
+      ],
+      "prerequisites": [
+        "py-basics",
+        "ml-fundamentals",
+        "deep-learning"
+      ],
+      "difficulty": "advanced",
+      "estimated_hours": 40,
+      "category": "computer-vision"
+    },
+    {
+      "id": "genai",
+      "title": "Generative AI and LLMs",
+      "description": "Large language models, prompt engineering, fine-tuning, and building generative applications.",
+      "skills_taught": [
+        "llms",
+        "prompt-engineering",
+        "fine-tuning",
+        "rag",
+        "generative-models"
+      ],
+      "prerequisites": [
+        "py-basics",
+        "ml-fundamentals",
+        "deep-learning",
+        "nlp"
+      ],
+      "difficulty": "advanced",
+      "estimated_hours": 35,
+      "category": "generative-ai"
+    },
+    {
+      "id": "mlops",
+      "title": "MLOps and Model Deployment",
+      "description": "Model versioning, CI/CD for ML, containerization, monitoring, and cloud deployment.",
+      "skills_taught": [
+        "model-versioning",
+        "ml-ci-cd",
+        "docker",
+        "model-monitoring",
+        "cloud-deployment"
+      ],
+      "prerequisites": [
+        "git-github",
+        "ml-fundamentals",
+        "scikit-learn"
+      ],
+      "difficulty": "advanced",
+      "estimated_hours": 30,
+      "category": "mlops"
+    },
+    {
+      "id": "ai-project",
+      "title": "AI Project Development",
+      "description": "End-to-end AI project lifecycle, from problem definition to production deployment and ethics.",
+      "skills_taught": [
+        "problem-definition",
+        "data-collection",
+        "experimentation",
+        "production-deployment",
+        "ai-ethics"
+      ],
+      "prerequisites": [
+        "ml-fundamentals",
+        "git-github"
+      ],
+      "difficulty": "advanced",
+      "estimated_hours": 25,
+      "category": "project"
+    },
+    {
+      "id": "linear-algebra",
+      "title": "Linear Algebra for ML",
+      "description": "Vectors, matrices, eigenvalues, eigenvectors, and matrix decomposition techniques.",
+      "skills_taught": [
+        "vectors",
+        "matrices",
+        "eigenvalues",
+        "matrix-decomposition",
+        "vector-spaces"
+      ],
+      "prerequisites": [],
+      "difficulty": "beginner",
+      "estimated_hours": 20,
+      "category": "math"
+    },
+    {
+      "id": "calculus",
+      "title": "Calculus for ML",
+      "description": "Derivatives, gradients, partial derivatives, and optimization fundamentals.",
+      "skills_taught": [
+        "derivatives",
+        "gradients",
+        "partial-derivatives",
+        "optimization",
+        "chain-rule"
+      ],
+      "prerequisites": [
+        "linear-algebra"
+      ],
+      "difficulty": "intermediate",
+      "estimated_hours": 20,
+      "category": "math"
+    }
+  ]
+}

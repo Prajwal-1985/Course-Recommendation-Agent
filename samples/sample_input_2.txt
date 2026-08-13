@@ -1,0 +1,6 @@
+Name: Arjun Patel
+Background: B.Tech CSE student in 3rd year with strong programming fundamentals
+Current skills: python-syntax, variables, control-flow, functions, arrays, linked-lists, git-basics
+Skill level: intermediate
+Career goal: AI/ML Engineer
+Available study hours per week: 20

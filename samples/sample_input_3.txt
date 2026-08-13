@@ -1,0 +1,6 @@
+Name: Neha Gupta
+Background: Web developer with 3 years of experience in JavaScript and React
+Current skills: python-syntax, variables, control-flow, functions, git-basics, version-control, sql-queries
+Skill level: intermediate
+Career goal: Generative AI Developer
+Available study hours per week: 12

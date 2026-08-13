@@ -1,0 +1,141 @@
+{
+  "student": {
+    "name": "Neha Gupta",
+    "background": "Web developer with 3 years of experience in JavaScript and React",
+    "current_skills": [
+      "python-syntax",
+      "variables",
+      "control-flow",
+      "functions",
+      "git-basics",
+      "version-control",
+      "sql-queries"
+    ],
+    "skill_level": "intermediate",
+    "career_goal": "Generative AI Developer",
+    "study_hours_per_week": 12
+  },
+  "target_skills": [
+    "python-syntax",
+    "numpy-arrays",
+    "pandas-dataframes",
+    "supervised-learning",
+    "model-training",
+    "neural-networks",
+    "pytorch",
+    "backpropagation",
+    "text-preprocessing",
+    "tokenization",
+    "word-embeddings",
+    "transformers",
+    "llms",
+    "prompt-engineering",
+    "fine-tuning",
+    "rag",
+    "generative-models"
+  ],
+  "skill_gaps": [
+    "numpy-arrays",
+    "pandas-dataframes",
+    "supervised-learning",
+    "model-training",
+    "neural-networks",
+    "pytorch",
+    "backpropagation",
+    "text-preprocessing",
+    "tokenization",
+    "word-embeddings",
+    "transformers",
+    "llms",
+    "prompt-engineering",
+    "fine-tuning",
+    "rag",
+    "generative-models"
+  ],
+  "learning_path": [
+    {
+      "order": 1,
+      "course_id": "py-basics",
+      "title": "Python Programming Fundamentals",
+      "category": "programming",
+      "difficulty": "beginner",
+      "estimated_hours": 25,
+      "deterministic_reason": "Required prerequisite for: Data Structures and Algorithms, NumPy for Numerical Computing",
+      "personalized_explanation": "As a intermediate-level learner aiming to become a Generative AI Developer, 'Python Programming Fundamentals' is essential because it required prerequisite for: data structures and algorithms, numpy for numerical computing. This beginner course (25 hours) directly supports your goal."
+    },
+    {
+      "order": 2,
+      "course_id": "numpy-basics",
+      "title": "NumPy for Numerical Computing",
+      "category": "data",
+      "difficulty": "beginner",
+      "estimated_hours": 15,
+      "deterministic_reason": "Teaches missing skills: numpy-arrays; Also prerequisite for: Pandas for Data Manipulation, Statistics for Data Science",
+      "personalized_explanation": "As a intermediate-level learner aiming to become a Generative AI Developer, 'NumPy for Numerical Computing' is essential because it teaches missing skills: numpy-arrays; also prerequisite for: pandas for data manipulation, statistics for data science. This beginner course (15 hours) directly supports your goal."
+    },
+    {
+      "order": 3,
+      "course_id": "pandas-basics",
+      "title": "Pandas for Data Manipulation",
+      "category": "data",
+      "difficulty": "beginner",
+      "estimated_hours": 20,
+      "deterministic_reason": "Teaches missing skills: pandas-dataframes; Also prerequisite for: Data Visualization, Machine Learning Fundamentals",
+      "personalized_explanation": "As a intermediate-level learner aiming to become a Generative AI Developer, 'Pandas for Data Manipulation' is essential because it teaches missing skills: pandas-dataframes; also prerequisite for: data visualization, machine learning fundamentals. This beginner course (20 hours) directly supports your goal."
+    },
+    {
+      "order": 4,
+      "course_id": "statistics",
+      "title": "Statistics for Data Science",
+      "category": "math",
+      "difficulty": "intermediate",
+      "estimated_hours": 30,
+      "deterministic_reason": "Required prerequisite for: Machine Learning Fundamentals, Deep Learning with PyTorch",
+      "personalized_explanation": "As a intermediate-level learner aiming to become a Generative AI Developer, 'Statistics for Data Science' is essential because it required prerequisite for: machine learning fundamentals, deep learning with pytorch. This intermediate course (30 hours) directly supports your goal."
+    },
+    {
+      "order": 5,
+      "course_id": "ml-fundamentals",
+      "title": "Machine Learning Fundamentals",
+      "category": "machine-learning",
+      "difficulty": "intermediate",
+      "estimated_hours": 40,
+      "deterministic_reason": "Teaches missing skills: model-training, supervised-learning; Also prerequisite for: Scikit-learn for ML, Deep Learning with PyTorch",
+      "personalized_explanation": "As a intermediate-level learner aiming to become a Generative AI Developer, 'Machine Learning Fundamentals' is essential because it teaches missing skills: model-training, supervised-learning; also prerequisite for: scikit-learn for ml, deep learning with pytorch. This intermediate course (40 hours) directly supports your goal."
+    },
+    {
+      "order": 6,
+      "course_id": "deep-learning",
+      "title": "Deep Learning with PyTorch",
+      "category": "deep-learning",
+      "difficulty": "advanced",
+      "estimated_hours": 45,
+      "deterministic_reason": "Teaches missing skills: backpropagation, neural-networks, pytorch; Also prerequisite for: Natural Language Processing, Computer Vision; Advanced course for specialization",
+      "personalized_explanation": "As a intermediate-level learner aiming to become a Generative AI Developer, 'Deep Learning with PyTorch' is essential because it teaches missing skills: backpropagation, neural-networks, pytorch; also prerequisite for: natural language processing, computer vision; advanced course for specialization. This advanced course (45 hours) directly supports your goal."
+    },
+    {
+      "order": 7,
+      "course_id": "nlp",
+      "title": "Natural Language Processing",
+      "category": "nlp",
+      "difficulty": "advanced",
+      "estimated_hours": 35,
+      "deterministic_reason": "Teaches missing skills: text-preprocessing, tokenization, transformers, word-embeddings; Also prerequisite for: Generative AI and LLMs; Advanced course for specialization",
+      "personalized_explanation": "As a intermediate-level learner aiming to become a Generative AI Developer, 'Natural Language Processing' is essential because it teaches missing skills: text-preprocessing, tokenization, transformers, word-embeddings; also prerequisite for: generative ai and llms; advanced course for specialization. This advanced course (35 hours) directly supports your goal."
+    },
+    {
+      "order": 8,
+      "course_id": "genai",
+      "title": "Generative AI and LLMs",
+      "category": "generative-ai",
+      "difficulty": "advanced",
+      "estimated_hours": 35,
+      "deterministic_reason": "Teaches missing skills: fine-tuning, generative-models, llms, prompt-engineering, rag; Advanced course for specialization",
+      "personalized_explanation": "As a intermediate-level learner aiming to become a Generative AI Developer, 'Generative AI and LLMs' is essential because it teaches missing skills: fine-tuning, generative-models, llms, prompt-engineering, rag; advanced course for specialization. This advanced course (35 hours) directly supports your goal."
+    }
+  ],
+  "total_hours": 245,
+  "estimated_weeks": 20.4,
+  "overall_explanation": "Based on your background as Web developer with 3 years of experience in JavaScript and React and your goal to become a Generative AI Developer, this learning path covers 16 skill gaps over approximately 20.4 weeks. Start with the foundational courses and progress sequentially.",
+  "next_milestone": "After completing 'Generative AI and LLMs', you will be ready to apply for junior Generative AI Developer roles."
+}

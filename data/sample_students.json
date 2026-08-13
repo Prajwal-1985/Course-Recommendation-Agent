@@ -1,0 +1,70 @@
+{
+  "students": [
+    {
+  "name": "Ananya Reddy",
+  "background": "Software Engineer with 4 years of backend development experience in Java and Spring Boot",
+  "current_skills": ["python-syntax", "variables", "control-flow", "functions", "git-basics", "version-control", "sql-queries", "database-design"],
+  "skill_level": "intermediate",
+  "career_goal": "Machine Learning Engineer",
+  "study_hours_per_week": 15
+    },
+    {
+      "name": "Riya Sharma",
+      "background": "B.Sc. Mathematics graduate with no programming experience",
+      "current_skills": [
+        "descriptive-statistics",
+        "probability"
+      ],
+      "skill_level": "beginner",
+      "career_goal": "Data Scientist",
+      "study_hours_per_week": 15
+    },
+    {
+      "name": "Arjun Patel",
+      "background": "B.Tech CSE student in 3rd year with strong programming fundamentals",
+      "current_skills": [
+        "python-syntax",
+        "variables",
+        "control-flow",
+        "functions",
+        "arrays",
+        "linked-lists",
+        "git-basics"
+      ],
+      "skill_level": "intermediate",
+      "career_goal": "AI/ML Engineer",
+      "study_hours_per_week": 20
+    },
+    {
+      "name": "Neha Gupta",
+      "background": "Web developer with 3 years of experience in JavaScript and React",
+      "current_skills": [
+        "python-syntax",
+        "variables",
+        "control-flow",
+        "functions",
+        "git-basics",
+        "version-control",
+        "sql-queries"
+      ],
+      "skill_level": "intermediate",
+      "career_goal": "Generative AI Developer",
+      "study_hours_per_week": 12
+    },
+    {
+      "name": "Karthik Iyer",
+      "background": "Data Analyst with 2 years of experience in Excel and SQL",
+      "current_skills": [
+        "python-syntax",
+        "variables",
+        "sql-queries",
+        "database-design",
+        "descriptive-statistics",
+        "data-retrieval"
+      ],
+      "skill_level": "intermediate",
+      "career_goal": "Machine Learning Engineer",
+      "study_hours_per_week": 18
+    }
+  ]
+}

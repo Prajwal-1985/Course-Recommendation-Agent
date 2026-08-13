@@ -1,0 +1,94 @@
+COURSE RECOMMENDATION AGENT
+Generated for: Neha Gupta
+
+STUDENT PROFILE
+  Name: Neha Gupta
+  Background: Web developer with 3 years of experience in JavaScript and React
+  Skill Level: intermediate
+  Career Goal: Generative AI Developer
+  Study Time: 12 hours/week
+
+IDENTIFIED SKILL GAPS
+  • numpy-arrays
+  • pandas-dataframes
+  • supervised-learning
+  • model-training
+  • neural-networks
+  • pytorch
+  • backpropagation
+  • text-preprocessing
+  • tokenization
+  • word-embeddings
+  • transformers
+  • llms
+  • prompt-engineering
+  • fine-tuning
+  • rag
+  • generative-models
+
+RECOMMENDED LEARNING PATH
+
+1. Python Programming Fundamentals
+   Category: programming
+   Difficulty: beginner
+   Duration: 25 hours
+   Why: Required prerequisite for: Data Structures and Algorithms, NumPy for Numerical Computing
+   Personalized: As a intermediate-level learner aiming to become a Generative AI Developer, 'Python Programming Fundamentals' is essential because it required prerequisite for: data structures and algorithms, numpy for numerical computing. This beginner course (25 hours) directly supports your goal.
+
+2. NumPy for Numerical Computing
+   Category: data
+   Difficulty: beginner
+   Duration: 15 hours
+   Why: Teaches missing skills: numpy-arrays; Also prerequisite for: Pandas for Data Manipulation, Statistics for Data Science
+   Personalized: As a intermediate-level learner aiming to become a Generative AI Developer, 'NumPy for Numerical Computing' is essential because it teaches missing skills: numpy-arrays; also prerequisite for: pandas for data manipulation, statistics for data science. This beginner course (15 hours) directly supports your goal.
+
+3. Pandas for Data Manipulation
+   Category: data
+   Difficulty: beginner
+   Duration: 20 hours
+   Why: Teaches missing skills: pandas-dataframes; Also prerequisite for: Data Visualization, Machine Learning Fundamentals
+   Personalized: As a intermediate-level learner aiming to become a Generative AI Developer, 'Pandas for Data Manipulation' is essential because it teaches missing skills: pandas-dataframes; also prerequisite for: data visualization, machine learning fundamentals. This beginner course (20 hours) directly supports your goal.
+
+4. Statistics for Data Science
+   Category: math
+   Difficulty: intermediate
+   Duration: 30 hours
+   Why: Required prerequisite for: Machine Learning Fundamentals, Deep Learning with PyTorch
+   Personalized: As a intermediate-level learner aiming to become a Generative AI Developer, 'Statistics for Data Science' is essential because it required prerequisite for: machine learning fundamentals, deep learning with pytorch. This intermediate course (30 hours) directly supports your goal.
+
+5. Machine Learning Fundamentals
+   Category: machine-learning
+   Difficulty: intermediate
+   Duration: 40 hours
+   Why: Teaches missing skills: model-training, supervised-learning; Also prerequisite for: Scikit-learn for ML, Deep Learning with PyTorch
+   Personalized: As a intermediate-level learner aiming to become a Generative AI Developer, 'Machine Learning Fundamentals' is essential because it teaches missing skills: model-training, supervised-learning; also prerequisite for: scikit-learn for ml, deep learning with pytorch. This intermediate course (40 hours) directly supports your goal.
+
+6. Deep Learning with PyTorch
+   Category: deep-learning
+   Difficulty: advanced
+   Duration: 45 hours
+   Why: Teaches missing skills: backpropagation, neural-networks, pytorch; Also prerequisite for: Natural Language Processing, Computer Vision; Advanced course for specialization
+   Personalized: As a intermediate-level learner aiming to become a Generative AI Developer, 'Deep Learning with PyTorch' is essential because it teaches missing skills: backpropagation, neural-networks, pytorch; also prerequisite for: natural language processing, computer vision; advanced course for specialization. This advanced course (45 hours) directly supports your goal.
+
+7. Natural Language Processing
+   Category: nlp
+   Difficulty: advanced
+   Duration: 35 hours
+   Why: Teaches missing skills: text-preprocessing, tokenization, transformers, word-embeddings; Also prerequisite for: Generative AI and LLMs; Advanced course for specialization
+   Personalized: As a intermediate-level learner aiming to become a Generative AI Developer, 'Natural Language Processing' is essential because it teaches missing skills: text-preprocessing, tokenization, transformers, word-embeddings; also prerequisite for: generative ai and llms; advanced course for specialization. This advanced course (35 hours) directly supports your goal.
+
+8. Generative AI and LLMs
+   Category: generative-ai
+   Difficulty: advanced
+   Duration: 35 hours
+   Why: Teaches missing skills: fine-tuning, generative-models, llms, prompt-engineering, rag; Advanced course for specialization
+   Personalized: As a intermediate-level learner aiming to become a Generative AI Developer, 'Generative AI and LLMs' is essential because it teaches missing skills: fine-tuning, generative-models, llms, prompt-engineering, rag; advanced course for specialization. This advanced course (35 hours) directly supports your goal.
+
+SUMMARY
+  Total Courses: 8
+  Total Hours: 245
+  Estimated Weeks: 20.4
+
+Strategy: Based on your background as Web developer with 3 years of experience in JavaScript and React and your goal to become a Generative AI Developer, this learning path covers 16 skill gaps over approximately 20.4 weeks. Start with the foundational courses and progress sequentially.
+
+Next Milestone: After completing 'Generative AI and LLMs', you will be ready to apply for junior Generative AI Developer roles.

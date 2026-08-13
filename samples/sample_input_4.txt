@@ -1,0 +1,6 @@
+Name: Karthik Iyer
+Background: Data Analyst with 2 years of experience in Excel and SQL
+Current skills: python-syntax, variables, sql-queries, database-design, descriptive-statistics, data-retrieval
+Skill level: intermediate
+Career goal: Machine Learning Engineer
+Available study hours per week: 18

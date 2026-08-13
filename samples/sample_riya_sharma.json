@@ -1,0 +1,117 @@
+{
+  "student": {
+    "name": "Riya Sharma",
+    "background": "B.Sc. Mathematics graduate with no programming experience",
+    "current_skills": [
+      "descriptive-statistics",
+      "probability"
+    ],
+    "skill_level": "beginner",
+    "career_goal": "Data Scientist",
+    "study_hours_per_week": 15
+  },
+  "target_skills": [
+    "python-syntax",
+    "pandas-dataframes",
+    "data-cleaning",
+    "data-transformation",
+    "descriptive-statistics",
+    "probability",
+    "hypothesis-testing",
+    "matplotlib",
+    "seaborn",
+    "sql-queries",
+    "supervised-learning",
+    "model-evaluation",
+    "scikit-learn"
+  ],
+  "skill_gaps": [
+    "python-syntax",
+    "pandas-dataframes",
+    "data-cleaning",
+    "data-transformation",
+    "hypothesis-testing",
+    "matplotlib",
+    "seaborn",
+    "sql-queries",
+    "supervised-learning",
+    "model-evaluation",
+    "scikit-learn"
+  ],
+  "learning_path": [
+    {
+      "order": 1,
+      "course_id": "sql-fundamentals",
+      "title": "SQL Fundamentals",
+      "category": "data",
+      "difficulty": "beginner",
+      "estimated_hours": 20,
+      "deterministic_reason": "Teaches missing skills: sql-queries; Appropriate beginner-level foundation",
+      "personalized_explanation": "As a beginner-level learner aiming to become a Data Scientist, 'SQL Fundamentals' is essential because it teaches missing skills: sql-queries; appropriate beginner-level foundation. This beginner course (20 hours) directly supports your goal."
+    },
+    {
+      "order": 2,
+      "course_id": "py-basics",
+      "title": "Python Programming Fundamentals",
+      "category": "programming",
+      "difficulty": "beginner",
+      "estimated_hours": 25,
+      "deterministic_reason": "Teaches missing skills: python-syntax; Also prerequisite for: Data Structures and Algorithms, NumPy for Numerical Computing; Appropriate beginner-level foundation",
+      "personalized_explanation": "As a beginner-level learner aiming to become a Data Scientist, 'Python Programming Fundamentals' is essential because it teaches missing skills: python-syntax; also prerequisite for: data structures and algorithms, numpy for numerical computing; appropriate beginner-level foundation. This beginner course (25 hours) directly supports your goal."
+    },
+    {
+      "order": 3,
+      "course_id": "numpy-basics",
+      "title": "NumPy for Numerical Computing",
+      "category": "data",
+      "difficulty": "beginner",
+      "estimated_hours": 15,
+      "deterministic_reason": "Required prerequisite for: Pandas for Data Manipulation, Statistics for Data Science; Appropriate beginner-level foundation",
+      "personalized_explanation": "As a beginner-level learner aiming to become a Data Scientist, 'NumPy for Numerical Computing' is essential because it required prerequisite for: pandas for data manipulation, statistics for data science; appropriate beginner-level foundation. This beginner course (15 hours) directly supports your goal."
+    },
+    {
+      "order": 4,
+      "course_id": "pandas-basics",
+      "title": "Pandas for Data Manipulation",
+      "category": "data",
+      "difficulty": "beginner",
+      "estimated_hours": 20,
+      "deterministic_reason": "Teaches missing skills: data-cleaning, data-transformation, pandas-dataframes; Also prerequisite for: Data Visualization, Machine Learning Fundamentals; Appropriate beginner-level foundation",
+      "personalized_explanation": "As a beginner-level learner aiming to become a Data Scientist, 'Pandas for Data Manipulation' is essential because it teaches missing skills: data-cleaning, data-transformation, pandas-dataframes; also prerequisite for: data visualization, machine learning fundamentals; appropriate beginner-level foundation. This beginner course (20 hours) directly supports your goal."
+    },
+    {
+      "order": 5,
+      "course_id": "data-viz",
+      "title": "Data Visualization",
+      "category": "data",
+      "difficulty": "intermediate",
+      "estimated_hours": 20,
+      "deterministic_reason": "Teaches missing skills: matplotlib, seaborn",
+      "personalized_explanation": "As a beginner-level learner aiming to become a Data Scientist, 'Data Visualization' is essential because it teaches missing skills: matplotlib, seaborn. This intermediate course (20 hours) directly supports your goal."
+    },
+    {
+      "order": 6,
+      "course_id": "statistics",
+      "title": "Statistics for Data Science",
+      "category": "math",
+      "difficulty": "intermediate",
+      "estimated_hours": 30,
+      "deterministic_reason": "Teaches missing skills: hypothesis-testing; Also prerequisite for: Machine Learning Fundamentals, Deep Learning with PyTorch",
+      "personalized_explanation": "As a beginner-level learner aiming to become a Data Scientist, 'Statistics for Data Science' is essential because it teaches missing skills: hypothesis-testing; also prerequisite for: machine learning fundamentals, deep learning with pytorch. This intermediate course (30 hours) directly supports your goal."
+    },
+    {
+      "order": 7,
+      "course_id": "ml-fundamentals",
+      "title": "Machine Learning Fundamentals",
+      "category": "machine-learning",
+      "difficulty": "intermediate",
+      "estimated_hours": 40,
+      "deterministic_reason": "Teaches missing skills: model-evaluation, supervised-learning; Also prerequisite for: Scikit-learn for ML, Deep Learning with PyTorch",
+      "personalized_explanation": "As a beginner-level learner aiming to become a Data Scientist, 'Machine Learning Fundamentals' is essential because it teaches missing skills: model-evaluation, supervised-learning; also prerequisite for: scikit-learn for ml, deep learning with pytorch. This intermediate course (40 hours) directly supports your goal."
+    }
+  ],
+  "total_hours": 170,
+  "estimated_weeks": 11.3,
+  "overall_explanation": "Based on your background as B.Sc. Mathematics graduate with no programming experience and your goal to become a Data Scientist, this learning path covers 11 skill gaps over approximately 11.3 weeks. Start with the foundational courses and progress sequentially.",
+  "next_milestone": "After completing 'Machine Learning Fundamentals', you will be ready to apply for junior Data Scientist roles."
+}
